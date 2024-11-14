@@ -1,7 +1,7 @@
 # Hey, I'm David! 👋
 
 ## About me
-I am a self-taught developer in the process of learning and improving every day. Passionate about discovering new technologies and refining my skills.
+I am a self-learning developer in the process of learning and improving every day. Passionate about discovering new technologies and refining my skills.
 
 🌱 **Currently learning**: Python, HTML, and CSS. <br>
 👨‍💻 **Currently working**: in something cool !<br>
