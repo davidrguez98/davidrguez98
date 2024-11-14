@@ -12,14 +12,23 @@ I am a self-learning developer in the process of learning and improving every da
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Trainings Projects
-- [**Project Name 1**](link to project): A brief description of what it does or its purpose.
-- [**Project Name 2**](link to project): A brief description of what it does or its purpose.
+- [**Roadmap Retos Programación by Mouredev**](https://github.com/davidrguez98/roadmap-retos-programacion)
 
 ## Connect with me
 I am open to collaborations and always looking for new ideas and challenges. Feel free to contact me:
 
-- [LinkedIn](https://www.linkedin.com/in/david-rodr%C3%ADguez-p%C3%A9rez-electromedicinaclinica/)
-- [Instagram](https://www.instagram.com/davidrguez98/)
-- [x](https://x.com/davidrguez98)
+<p align="left">
+  <a href="https://www.linkedin.com/in/david-rodr%C3%ADguez-p%C3%A9rez-electromedicinaclinica/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/davidrguez98/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/davidrguez98">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
