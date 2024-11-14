@@ -20,5 +20,6 @@ I am a self-learning developer in the process of learning and improving every da
 ## Connect with me
 I am open to collaborations and always looking for new ideas and challenges. Feel free to contact me:
 
-- [LinkedIn][[([link to your LinkedIn profile](https://www.linkedin.com/in/david-rodr%C3%ADguez-p%C3%A9rez-electromedicinaclinica/)]
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/david-rodr%C3%ADguez-p%C3%A9rez-electromedicinaclinica/)
+- [Instagram](https://www.instagram.com/davidrguez98/)
+- [x](https://x.com/davidrguez98)
