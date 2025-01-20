@@ -24,9 +24,6 @@ I am open to collaborations and always looking for new ideas and challenges. Fee
   <a href="https://www.linkedin.com/in/david-rodr%C3%ADguez-p%C3%A9rez-electromedicinaclinica/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/davidrguez98/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://x.com/davidrguez98">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
