@@ -15,6 +15,9 @@ I am a self-learning developer in the process of learning and improving every da
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Trainings Projects
+- [**My-ToDo-app**](https://github.com/davidrguez98/My_ToDo_app)
+- [**GitHub-ActivityTracker**](https://github.com/davidrguez98/GitHub-ActivityTracker)
+- [**Weather-API**](https://github.com/davidrguez98/Weather-API)
 - [**Roadmap Retos Programación by Mouredev**](https://github.com/davidrguez98/roadmap-retos-programacion)
 
 ## Connect with me
