@@ -3,7 +3,7 @@
 ## About me
 I am a self-learning developer in the process of learning and improving every day. Passionate about discovering new technologies and refining my skills.
 
-🌱 **Currently learning**: Python, HTML, and CSS. <br>
+🌱 **Currently learning**: Python, JavaScript, HTML, and CSS. <br>
 👨‍💻 **Currently working**: in something cool !<br>
 🎯 **Goal**: To create useful solutions and continue developing my programming and software development skills. <br>
 
