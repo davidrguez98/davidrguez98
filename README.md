@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy David
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
 Desde pequeño me ha fascinado la tecnología. Pasaba horas descubriendo nuevos móviles, ordenadores y cualquier gadget que saliera. Siempre quise entender cómo funcionaban.
 
