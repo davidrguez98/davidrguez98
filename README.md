@@ -49,9 +49,6 @@ Crear soluciones útiles y seguir creciendo como programador Full Stack, aportan
 - [**To-Do Web App**](https://github.com/davidrguez98/My_ToDo_app)  
   Lista de tareas interactiva con gestión de tareas y diseño responsive.
 
-- [**GitHub Activity Tracker**](https://github.com/davidrguez98/GitHub-ActivityTracker)  
-  Herramienta para visualizar actividad de GitHub.
-
 ## 🤝 Contacto
 
 Estoy abierto a colaborar en proyectos y siempre en busca de nuevos retos. ¡No dudes en escribirme!
